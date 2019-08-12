@@ -30,6 +30,10 @@ http://shaofan.org/angular-filemanager/
 * 检出项目 <code class="code-normal">git clone https://git.oschina.net/alexyang/spring-boot-filemanager.git</code>
 * 再项目根目录执行 <code class="code-normal">mvn spring-boot:run</code> 或运行<code class="code-normal">SpringBootFileManagerApplication</code>
 
+angular-filemanager 请访问
+
+> http://localhost:8888/
+
 #编译angular-filemanager
 
 > 其实利用webjars可以做到用java去编译，以后空了再弄吧。
